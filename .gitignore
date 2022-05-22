@@ -1,0 +1,5 @@
+./Noctobot
+vendor/
+qrcode.png
+config.json
+.idea/
